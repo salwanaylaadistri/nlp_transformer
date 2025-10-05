@@ -6,7 +6,7 @@ Tujuannya adalah memahami bagaimana komponen seperti self-attention, causal mask
 ## Langkah Jalankan Program
 1) Clone proyek dengan perintah berikut:
    ```
-   git clone link github
+   git clone https://github.com/salwanaylaadistri/nlp_transformer.git
    ```
 2) Install depedensi dengan perintah berikut:
    ```
